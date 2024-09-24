@@ -1,0 +1,172 @@
+    1   24/ 09/ 24 17:59:35 ls .config/
+    2   24/ 09/ 24 17:59:35 clear
+    3   24/ 09/ 24 17:59:35 nvim ~/.bashrc 
+    4   24/ 09/ 24 17:59:35 sudo pacman -R xsel
+    5   24/ 09/ 24 17:59:35 clear
+    6   24/ 09/ 24 17:59:35 clear
+    7   24/ 09/ 24 17:59:35 ls
+    8   24/ 09/ 24 17:59:35 clea
+    9   24/ 09/ 24 17:59:35 clear
+   10   24/ 09/ 24 17:59:35 ls
+   11   24/ 09/ 24 17:59:35 clear
+   12   24/ 09/ 24 17:59:35 ls -
+   13   24/ 09/ 24 17:59:35 clear
+   14   24/ 09/ 24 17:59:35 ls -a
+   15   24/ 09/ 24 17:59:35 clear
+   16   24/ 09/ 24 17:59:35 ls 
+   17   24/ 09/ 24 17:59:35 clea
+   18   24/ 09/ 24 17:59:35 clear
+   19   24/ 09/ 24 17:59:35 ls -a
+   20   24/ 09/ 24 17:59:35 rm .bash_history
+   21   24/ 09/ 24 17:59:35 rm .bash_history-007*
+   22   24/ 09/ 24 17:59:35 clear
+   23   24/ 09/ 24 17:59:35 ls -a
+   24   24/ 09/ 24 17:59:35 cat .xsession-errors
+   25   24/ 09/ 24 17:59:35 rm -fr .xsession-errors*
+   26   24/ 09/ 24 17:59:35 echo $DISPLAY
+   27   24/ 09/ 24 17:59:35 clear
+   28   24/ 09/ 24 17:59:35 ls
+   29   24/ 09/ 24 17:59:35 ranger
+   30   24/ 09/ 24 17:59:35 clear
+   31   24/ 09/ 24 17:59:35 ls
+   32   24/ 09/ 24 17:59:35 exit
+   33   24/ 09/ 24 17:59:35 pacman -Q
+   34   24/ 09/ 24 17:59:35 pacman -Qe
+   35   24/ 09/ 24 17:59:35 clear
+   36   24/ 09/ 24 17:59:35 pacman -Ss | grep nerd
+   37   24/ 09/ 24 17:59:35 pacman -Ss | grep nerd | grep aag
+   38   24/ 09/ 24 17:59:35 pacman -Ss | grep nerd | grep aga
+   39   24/ 09/ 24 17:59:35 sudo pacman -S ttf-agave-nerd
+   40   24/ 09/ 24 17:59:35 clear
+   41   24/ 09/ 24 17:59:35 ls
+   42   24/ 09/ 24 17:59:35 cd Descargas/
+   43   24/ 09/ 24 17:59:35 ls
+   44   24/ 09/ 24 17:59:35 rm Agave.zip 
+   45   24/ 09/ 24 17:59:35 clear
+   46   24/ 09/ 24 17:59:35 ls
+   47   24/ 09/ 24 17:59:35 cd ..
+   48   24/ 09/ 24 17:59:35 clear
+   49   24/ 09/ 24 17:59:35 ls
+   50   24/ 09/ 24 17:59:35 exit
+   51   24/ 09/ 24 17:59:35 cear
+   52   24/ 09/ 24 17:59:35 ls
+   53   24/ 09/ 24 17:59:35 clear
+   54   24/ 09/ 24 17:59:35 ls
+   55   24/ 09/ 24 17:59:35 clear
+   56   24/ 09/ 24 17:59:35 ls
+   57   24/ 09/ 24 17:59:35 echo "hello world"
+   58   24/ 09/ 24 17:59:35 clear
+   59   24/ 09/ 24 17:59:35 git status
+   60   24/ 09/ 24 17:59:35 clkear
+   61   24/ 09/ 24 17:59:35 clear
+   62   24/ 09/ 24 17:59:35 ls
+   63   24/ 09/ 24 17:59:35 ranger
+   64   24/ 09/ 24 17:59:35 clear
+   65   24/ 09/ 24 17:59:35 ls
+   66   24/ 09/ 24 17:59:35 su
+   67   24/ 09/ 24 17:59:35 sudo -i
+   68   24/ 09/ 24 17:59:35 reboot
+   69   24/ 09/ 24 17:59:35 shutdown now
+   70   24/ 09/ 24 17:59:53 python eduroam-linux-UdG.py 
+   71   24/ 09/ 24 18:00:41 python eduroam-linux-UdG.py 
+   72   24/ 09/ 24 18:02:32 python eduroam-linux-UdG(1).py 
+   73   24/ 09/ 24 18:02:51 python eduroam-linux-UdG(1).py 
+   74   24/ 09/ 24 18:03:03 python eduroam-linux-UdG.py 
+   75   24/ 09/ 24 18:07:21 python eduroam-linux-UdG.py 
+   76   24/ 09/ 24 18:07:54 python eduroam-linux-UdG.py 
+   77   24/ 09/ 24 18:24:55 nmcli device wifi
+   78   24/ 09/ 24 18:27:01 sudo ls /etc/NetworkManager/system-connections/
+   79   24/ 09/ 24 18:34:05 sudo systemctl restart NetworkManager
+   80   24/ 09/ 24 18:37:09 ls /etc/NetworkManager/system-connections/
+   81   24/ 09/ 24 18:37:17 sudo ls /etc/NetworkManager/system-connections/
+   82   24/ 09/ 24 18:37:55 sudo rm -fr /etc/NetworkManager/system-connections/Livebox6-F7A1.nmconnection
+   83   24/ 09/ 24 18:38:08 nmcli con up eduroam
+   84   24/ 09/ 24 19:08:40 lazygit 
+   85   24/ 09/ 24 19:09:27 git status
+   86   24/ 09/ 24 19:09:31 cd ..
+   87   24/ 09/ 24 19:09:37 cd UNI/4º/
+   88   24/ 09/ 24 19:09:41 git status
+   89   24/ 09/ 24 19:10:33 git
+   90   24/ 09/ 24 19:10:50 cd ISE/
+   91   24/ 09/ 24 19:10:55 mkdir practicas
+   92   24/ 09/ 24 19:10:56 cd practicas/
+   93   24/ 09/ 24 19:10:59 mkdir P1
+   94   24/ 09/ 24 19:11:00 cd P1/
+   95   24/ 09/ 24 19:11:01 ls
+   96   24/ 09/ 24 18:40:43 ssh-keygen
+   97   24/ 09/ 24 18:41:12 ls .ssh/
+   98   24/ 09/ 24 18:41:16 sudo ls .ssh/
+   99   24/ 09/ 24 18:43:54 ssh-keygen
+  100   24/ 09/ 24 18:44:12 ls ./ssh
+  101   24/ 09/ 24 18:44:16 ls ./.ssh
+  102   24/ 09/ 24 18:44:19 ls .ssh
+  103   24/ 09/ 24 18:44:21 cd
+  104   24/ 09/ 24 18:44:23 cd .ssh
+  105   24/ 09/ 24 18:44:24 ls
+  106   24/ 09/ 24 18:44:31 cat id_rsa.pub 
+  107   24/ 09/ 24 18:44:49 cat id_ed25519.pub 
+  108   24/ 09/ 24 18:47:08 c d
+  109   24/ 09/ 24 18:47:09 cd
+  110   24/ 09/ 24 18:47:22 cd UNI/4º/ISE/practicas/P1/
+  111   24/ 09/ 24 18:48:36 git clone git@github.com:YTTREW/practicasISE.git
+  112   24/ 09/ 24 18:49:15 ls
+  113   24/ 09/ 24 18:49:24 cd practicasISE/
+  114   24/ 09/ 24 18:49:25 ls
+  115   24/ 09/ 24 18:49:28 car README.md 
+  116   24/ 09/ 24 18:49:35 cat README.md 
+  117   24/ 09/ 24 18:50:23 git status
+  118   24/ 09/ 24 18:50:27 lazygit 
+  119   24/ 09/ 24 18:52:56 ls
+  120   24/ 09/ 24 18:53:05 kate hola.py
+  121   24/ 09/ 24 18:53:26 git status
+  122   24/ 09/ 24 18:53:58 cd ./git
+  123   24/ 09/ 24 18:54:01 ls
+  124   24/ 09/ 24 18:54:06 cd ..
+  125   24/ 09/ 24 18:54:07 ls
+  126   24/ 09/ 24 18:54:09 cd practicasISE/
+  127   24/ 09/ 24 18:54:10 ls
+  128   24/ 09/ 24 18:54:42 cd /.git
+  129   24/ 09/ 24 18:54:51 ls
+  130   24/ 09/ 24 18:54:55 git add hola.py 
+  131   24/ 09/ 24 18:54:57 git status
+  132   24/ 09/ 24 18:55:59 git commit -m "Añadido fichero hola.py"
+  133   24/ 09/ 24 18:56:04 git status
+  134   24/ 09/ 24 18:56:10 cd .git/
+  135   24/ 09/ 24 18:56:12 ls
+  136   24/ 09/ 24 18:56:13 cd ..
+  137   24/ 09/ 24 18:56:27 git log
+  138   24/ 09/ 24 18:56:31 git branch
+  139   24/ 09/ 24 18:57:07 kate hola.py 
+  140   24/ 09/ 24 18:57:42 git status
+  141   24/ 09/ 24 18:58:18 git add hola.py 
+  142   24/ 09/ 24 18:58:31 git commit -m "añadida funcion hola()"
+  143   24/ 09/ 24 19:01:20 kate hola.java
+  144   24/ 09/ 24 19:02:02 kate hola.py 
+  145   24/ 09/ 24 19:02:12 git status
+  146   24/ 09/ 24 19:03:17 git add hola.py hola.java 
+  147   24/ 09/ 24 19:03:23 git status
+  148   24/ 09/ 24 19:03:43 git commit -m "Cambios en los ficheros"
+  149   24/ 09/ 24 19:03:47 git log
+  150   24/ 09/ 24 19:04:15 kate hola.r
+  151   24/ 09/ 24 19:04:32 kate hola.py 
+  152   24/ 09/ 24 19:04:45 git status
+  153   24/ 09/ 24 19:04:54 git status
+  154   24/ 09/ 24 19:05:29 git commit -am "Probando el -am"
+  155   24/ 09/ 24 19:05:40 git status
+  156   24/ 09/ 24 19:06:27 git add hola.r 
+  157   24/ 09/ 24 19:06:30 git status
+  158   24/ 09/ 24 19:06:46 git commit -m "Se me habia olvidado el add de .r"
+  159   24/ 09/ 24 19:06:47 git status
+  160   24/ 09/ 24 19:07:13 git push
+  161   24/ 09/ 24 19:10:57 export PS1="[ \u@\h:\w ] \D{ %F} \t $ "
+  162   24/ 09/ 24 19:11:07 ls
+  163   24/ 09/ 24 19:11:13 export PS1="[ \u@\h:\w ] \D{ %F} \t $ "
+  164   24/ 09/ 24 19:11:34 export PS1="[ \u@\h:\w ] \D{ %F} \t $"
+  165   24/ 09/ 24 19:11:36 export PS1="[ \u@\h:\w ] \D{ %F} \t $ "
+  166   24/ 09/ 24 19:12:09 export HISTTIMEFORMAT=" %d/ %m/ %y %T "
+  167   24/ 09/ 24 19:12:13 history
+  168   24/ 09/ 24 19:12:53 git bash
+  169   24/ 09/ 24 19:13:57 history > history-P1-L1.txt
+  170   24/ 09/ 24 19:13:58 ls
+  171   24/ 09/ 24 19:14:11 rm history-P1-L1.txt 
+  172   24/ 09/ 24 19:14:17 history > history-P0-L1.txt
